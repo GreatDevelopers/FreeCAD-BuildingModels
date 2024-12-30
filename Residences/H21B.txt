@@ -1,0 +1,26 @@
+# FreeCAD BIM Project setup preset H21Btxt
+groupNewDocument=0
+projectName=House of HSRai
+groupSite=1
+siteName=Ranjit Avenue Phase-I
+siteAddress=Bulara, Ludhiana-Malerkotla Road
+siteLongitude=75.8677
+siteLatitude=29.8361
+siteDeviation=0.0
+siteElevation=780'
+groupBuilding=1
+buildingName=21B
+buildingUse=36
+buildingLength=31'
+buildingWidth=65'
+countVAxes=11
+distVAxes=3'
+countHAxes=22
+distHAxes=3'
+countLevels=4
+levelHeight=12'
+lineWidth=2
+lineColor=(0.12941176470588237, 0.14901960784313725, 0.3686274509803922)
+levelsWP=1
+levelsAxis=1
+addHumanFigure=1
